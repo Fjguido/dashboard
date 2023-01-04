@@ -46,6 +46,7 @@ const Form = () => {
                 onChange={handleChange}
                 value={values.firstName}
                 name="firstName"
+                //double negative to become a boolean - touched means actually touching the form
                 error={!!touched.firstName && !!errors.firstName}
                 helperText={touched.firstName && errors.firstName}
                 sx={{ gridColumn: "span 2" }}
