@@ -22,7 +22,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            How are you?
+            What do you think of this project?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -34,7 +34,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          Whats up?
+          What changes should be made?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -46,7 +46,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Who are you?
+            How are you doing today?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -70,7 +70,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            How are you feeling today?
+            Any final thoughts/recommendations for this project?
           </Typography>
         </AccordionDetails>
       </Accordion>
