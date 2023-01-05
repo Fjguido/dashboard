@@ -22,8 +22,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            How are you?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -35,8 +34,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Whats up?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -48,8 +46,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            Who are you?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -61,8 +58,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            Do you like ice cream?
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -74,8 +70,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            How are you feeling today?
           </Typography>
         </AccordionDetails>
       </Accordion>
