@@ -28,7 +28,7 @@ function App() {
           <main className="content">
             <Topbar />
             <Routes>
-              <Route path="dashboard/home" element={<Dashboard />} />
+              <Route path="dashboard" element={<Dashboard />} />
               <Route path="dashboard/team" element={<Team />} />
               <Route path="dashboard/contacts" element={<Contacts />} />
               <Route path="dashboard/invoices" element={<Invoices />} />
